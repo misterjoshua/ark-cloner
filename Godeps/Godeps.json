@@ -1,5 +1,5 @@
 {
-	"ImportPath": "k8s.io/sample-controller",
+	"ImportPath": "github.com/misterjoshua/ark-cloner",
 	"GoVersion": "unknown",
 	"GodepVersion": "gen-godeps",
 	"Packages": [
